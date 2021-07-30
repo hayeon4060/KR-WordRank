@@ -1,4 +1,9 @@
 {
     "git.ignoreLimitWarning": true,
-    "python.autoComplete.extraPaths": [true]
+    "python.autoComplete.extraPaths": [
+        true
+    ],
+    "python.analysis.extraPaths": [
+        true
+    ]
 }
